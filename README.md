@@ -1,4 +1,4 @@
-# ticketing
+# Ticketing Microservices (flow like on stubhub.com)
 Stephen Grider Microservices course
 
 Monorepo contains microservices.
